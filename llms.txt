@@ -1,0 +1,9 @@
+# smartboybritto-lgt.github.io llms.txt
+
+- [Travel & Tour Promotions](https://smartboybritto-lgt.github.io/Jack-Tours-and-Travels): Promote travel packages and tours to various destinations with booking options.
+- [Caribbean Tours](https://smartboybritto-lgt.github.io/Jack-Tours-and-Travels/about.html): Promote Caribbean travel packages and reservations for tours and accommodations.
+- [Travel Reservation](https://smartboybritto-lgt.github.io/Jack-Tours-and-Travels/reservation.html): Allow users to book travel reservations online with contact and destination options.
+- [Travel Deals and Offers](https://smartboybritto-lgt.github.io/Jack-Tours-and-Travels/deals.html): Promote weekly travel deals and booking options for various destinations.
+- [Travel Destinations](https://smartboybritto-lgt.github.io/Jack-Tours-and-Travels/index.html): Promote travel destinations and tour packages offered by Jack Tours and Travels.
+
+<!-- Make AI-driven visitors stick: add a free AI agent trained on your content at https://sitespeak.ai -->
